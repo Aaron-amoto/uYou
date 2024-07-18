@@ -44,6 +44,24 @@
 
 
 
+## Support the developers!
+
+- **MiRO92**: https://github.com/MiRO92/uYou-for-YouTube#support
+- **PoomSmart**: https://poomsmart.github.io
+- **level3tjg**: https://ko-fi.com/level3tjg
+- **BandarHL**: https://www.paypal.com/paypalme/BandarHL
+- **julioverne**: https://www.patreon.com/julioverne
+- **Galactic-Dev**:   
+  - Paypal: https://www.paypal.com/paypalme/DBrett684 
+  - Venmo: https://venmo.com/u/DavidBrett
+
+## FAQs
+
+See [FAQs - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/FAQs).
+
+## Building
+
+See [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building).
 
 
 
