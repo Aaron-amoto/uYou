@@ -22,15 +22,14 @@
 
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
-    * install via AltStore.
-    * [Open In AltStore YTKillerPlus v19.28.1](https://tinyurl.com/vsa93hyh) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
-
+    
+   
 
 
 ### Sideloadly
 * Download and install Sideloadly from [here](https://sideloadly.io).
 
-* download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
+* download the YouTube app from link above and grab the YouTube app to sideloadly app & put your Apple ID account and sign it.
 
 
 ### TrollStore IPA
