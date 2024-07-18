@@ -35,7 +35,7 @@
 ### Sideloadly
 * Download and install Sideloadly from [here](https://sideloadly.io).
 
-* download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
+* download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple ID account and sign it.
 
 
 ### TrollStore IPA
